@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": "3291",
+      "text": "Zikir Pagi",
+      "completed": true
+    },
+    {
+      "id": "76cd",
+      "text": "Shalat Duha",
+      "completed": true
+    },
+    {
+      "id": "192b",
+      "text": "Mandi",
+      "completed": true
+    },
+    {
+      "id": "eaee",
+      "text": "Belajar SQL Workbench",
+      "completed": true
+    },
+    {
+      "id": "df9c",
+      "text": "Meeting Kak Dea Jam 4 Sore",
+      "completed": false
+    },
+    {
+      "id": "4445",
+      "text": "Sholat Dzuhur",
+      "completed": true
+    },
+    {
+      "id": "f289",
+      "text": "Belajar 1 sheet arabic",
+      "completed": false
+    }
+  ]
+}
